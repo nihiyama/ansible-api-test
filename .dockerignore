@@ -1,0 +1,7 @@
+.git
+.git/*
+.gitignore
+.devcontainer
+.devcontainer/*
+docker-compose.yml
+README.md
